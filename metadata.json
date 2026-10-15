@@ -1,0 +1,6 @@
+{
+  "name": "Viva Infra — Architecture, Construction & Infrastructure",
+  "description": "Premium residential and commercial construction, architecture, and project management company website with interactive 3D model, dual-language English & Tamil support, and project portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
